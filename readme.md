@@ -275,7 +275,7 @@ It is held in memory only, deliberately: writing it to disk would make a fresh l
 
 ```bash
 git clone https://github.com/skchaudhary2005/MARK-45.git
-cd Mark-LV
+cd MARK-45
 python setup.py        # installs deps for YOUR OS + the browser automation engine
 python main.py
 ```
