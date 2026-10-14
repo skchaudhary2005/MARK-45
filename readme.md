@@ -1,5 +1,5 @@
-# ⚙️ MARK LV (55)
-### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
+# ⚙️ MARK-45 (JARVIS)
+### The Cross-Platform Personal AI Assistant — JARVIS Edition, customized by Sumit Chaudhary
 
 > 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@FatihMakes)**
 
@@ -9,7 +9,7 @@ A real-time voice AI that can hear, see, speak, and control your computer — on
 
 ## ✨ Overview
 
-Mark LIV gave the assistant a face. **Mark LV gives it a screen — and the stamina to keep working when a model goes down.**
+Mark LIV gave the assistant a face. **MARK-45 (JARVIS) gives it a screen — and the stamina to keep working when a model goes down.**
 
 Say "play the new Dune trailer" and the video appears **where the avatar was**, in the HUD itself, muted until you ask for sound. A YouTube link, a local file, a direct URL or just a description to search for: they all land in the same place, and JARVIS tells you it is coming *before* the picture arrives instead of going quiet for five seconds.
 
@@ -78,7 +78,7 @@ It's not just an assistant — it's an extension of your digital life.
 
 ---
 
-## 🆕 What's New in Mark LV
+## 🆕 What's New in MARK-45 (JARVIS)
 
 One new dependency for the whole release — `yt-dlp`, and only to turn a YouTube page into something Qt can play.
 
@@ -138,7 +138,7 @@ That middle row is where the time was going. Only quota and 404 used to be coole
 #### 🧩 Everything bundled drives the computer
 The bundled skill list had grown to seventeen, and some of it was nobody's business but its author's. **Not everyone updates games; everyone opens applications.**
 
-Mark LV trims it to **twelve**, and every one of them does the same kind of thing: drive this machine. Applications, the browser, files, the desktop, the screen, the clock, the weather, the display. The rule is written into the project tree, so the next skill lands in the right folder without anyone having to ask.
+MARK-45 (JARVIS) trims it to **twelve**, and every one of them does the same kind of thing: drive this machine. Applications, the browser, files, the desktop, the screen, the clock, the weather, the display. The rule is written into the project tree, so the next skill lands in the right folder without anyone having to ask.
 
 This is not only tidiness. Every bundled skill is declared to the model on **every** connection, whether you ever use it or not. The declarations sent at startup dropped from **16,827 characters to 12,907** — roughly a thousand tokens off every session, and five fewer wrong tools for the model to reach for.
 
@@ -274,7 +274,7 @@ It is held in memory only, deliberately: writing it to disk would make a fresh l
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/FatihMakes/Mark-LV.git
+git clone https://github.com/skchaudhary2005/MARK-45.git
 cd Mark-LV
 python setup.py        # installs deps for YOUR OS + the browser automation engine
 python main.py
@@ -304,7 +304,7 @@ python main.py
 ## 🗂️ Project Structure
 
 ```
-Mark LV/
+MARK-45 (JARVIS)/
 ├── main.py                   # Core loop — Gemini Live session, audio I/O, viseme extraction, tool dispatch
 ├── ui.py                     # PyQt6 HUD — avatar canvas, waveform, log panel, settings drawer, camera feed
 ├── setup.py                  # OS-aware installer (skips wrong-OS dependencies, checks your Python)
@@ -389,10 +389,10 @@ Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licens
 
 ## 👤 Connect with the Creator
 
-Engineered by a developer building a real-world JARVIS-style assistant.
-⭐ **Star the repository to support the journey to Mark 100.**
+Customized and maintained by **Sumit Chaudhary**. This project is based on the original Mark LV work by **FatihMakes**; original creator credit and license terms are retained.
+⭐ **Star the repository and follow the JARVIS MARK-45 project.**
 
 | Platform | Link |
 | --- | --- |
 | YouTube | [@FatihMakes](https://www.youtube.com/@FatihMakes) |
-| Instagram | [@fatihmakes](https://www.instagram.com/fatihmakes) |
+| Instagram | [@Ig_Sumitchaudhary05](https://www.instagram.com/Ig_Sumitchaudhary05/) |
