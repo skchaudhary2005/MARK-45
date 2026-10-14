@@ -1,8 +1,6 @@
 # ⚙️ MARK-45 (JARVIS)
 ### The Cross-Platform Personal AI Assistant — JARVIS Edition, customized by Sumit Chaudhary
 
-> 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@FatihMakes)**
-
 A real-time voice AI that can hear, see, speak, and control your computer — on any OS. Supports Windows, macOS, and Linux. Built on the Gemini Live API for native audio streaming, delivering zero subscriptions and total digital autonomy.
 
 ---
@@ -387,12 +385,11 @@ Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licens
 
 ---
 
-## 👤 Connect with the Creator
+## 👤 Project Maintainer
 
-Customized and maintained by **Sumit Chaudhary**. This project is based on the original Mark LV work by **FatihMakes**; original creator credit and license terms are retained.
+Customized and maintained by **Sumit Chaudhary**. This project includes upstream work distributed under **Creative Commons BY-NC 4.0**; required attribution and license terms are retained.
 ⭐ **Star the repository and follow the JARVIS MARK-45 project.**
 
 | Platform | Link |
 | --- | --- |
-| YouTube | [@FatihMakes](https://www.youtube.com/@FatihMakes) |
 | Instagram | [@Ig_Sumitchaudhary05](https://www.instagram.com/Ig_Sumitchaudhary05/) |
